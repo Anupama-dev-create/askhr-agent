@@ -104,19 +104,23 @@ askhr-agent/
 ├── .gitignore                    # Files ignored by Git
 └── .env.example                  # Environment variable template
 
-Installation
-1. Clone the repository
-git clone https://github.com/Anupama-dev-create/askhr-agent.git
+## Installation
 
+### 1. Clone the repository
+
+git clone https://github.com/Anupama-dev-create/askhr-agent.git
 cd askhr-agent
 
-2. Create and activate virtual environment
+
+
+
+##2. Create and activate virtual environment
 python -m venv venv
 venv\Scripts\activate
 
-3.Install dependencies
+##3.Install dependencies
 pip install -r requirements.txt
-4.Running the App
+##4.Running the App
 streamlit run app.py
 
 
