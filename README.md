@@ -106,7 +106,8 @@ askhr-agent/
 
 Installation
 1. Clone the repository
-git clone https://github.com/YOUR_GITHUB_USERNAME/askhr-agent.git
+git clone https://github.com/Anupama-dev-create/askhr-agent.git
+
 cd askhr-agent
 
 2. Create and activate virtual environment
@@ -116,7 +117,8 @@ venv\Scripts\activate
 3.Install dependencies
 pip install -r requirements.txt
 4.Running the App
-pip install -r requirements.txt
+streamlit run app.py
+
 
 ## How to Use
 
